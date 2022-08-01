@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🧭 Find me at [https://www.lumeng.me/]
+🧭 Find me at https://www.lumeng.me/
 
 <!--
 **mintpancake/mintpancake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
